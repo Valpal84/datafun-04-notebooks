@@ -103,24 +103,6 @@ Customize these project scripts.
 ## Sync to GitHub
 
 If things still work - sync the code back up to GitHub where it's safe.
-
-1. On the VS Code side panel, click the source control icon (look for a blue bubble with an number in it).
-1. Hint: Mouse over the icons to see their names.
-1. Important! Above the Commit button, it will say "Message". 
-1. You MUST include a commit message. 
-1. In the commit message input box, type "first TODO".
-1. Click the down arrow on the blue "Commit" button to "Commit and Push" to your GitHub repo.
-
-Verify: Open a browser to your GitHub repo and verify the files have appeared. 
-In addition to the original files, you should have one or more new files. 
-If not, return to VS Code and edit/execute files as needed. 
-Then commit and push again.
-
-Common Issue: If your computer hangs because you forgot the commit message, 
-just enter your message in the top line of the file it shows in the editor.
-Then click the checkmark in the upper right to close that file and save your commit message.
-"Sync your changes" to push to GitHub. 
-
 ---
 
 ## Update README.md
@@ -138,3 +120,9 @@ Edit this README.md file as you progress. It uses Markdown, a simple and easy ma
 
 1. Overview [Programming Languages in VS Code](https://code.visualstudio.com/docs/languages/overview)
 1. Deep Dive [Python in VS Code](https://code.visualstudio.com/docs/python/python-tutorial)
+
+## Creating a datafun 04 repo
+1. added a readme file
+2. added utility
+3. added utility logger
+4. added gitignore

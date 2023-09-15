@@ -121,8 +121,10 @@ Edit this README.md file as you progress. It uses Markdown, a simple and easy ma
 1. Overview [Programming Languages in VS Code](https://code.visualstudio.com/docs/languages/overview)
 1. Deep Dive [Python in VS Code](https://code.visualstudio.com/docs/python/python-tutorial)
 
-## Creating a datafun 04 repo
+## Creating a datafun 04 repo 9/11/23
 1. added a readme file
 2. added utility
 3. added utility logger
 4. added gitignore
+
+
